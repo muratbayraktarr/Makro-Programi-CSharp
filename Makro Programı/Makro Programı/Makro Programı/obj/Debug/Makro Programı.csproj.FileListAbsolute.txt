@@ -1,0 +1,52 @@
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\Makro Programı.exe.config
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\Makro Programı.exe
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\Makro Programı.pdb
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.csproj.AssemblyReference.cache
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro_Programı.Form1.resources
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro_Programı.Properties.Resources.resources
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.csproj.GenerateResource.cache
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.csproj.CoreCompileInputs.cache
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.csproj.CopyComplete
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.exe
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.pdb
+C:\Users\MuratBayraktar\source\repos\Makro Programı\Makro Programı\obj\Debug\Makro Programı.exe.licenses
